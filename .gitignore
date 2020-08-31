@@ -3,3 +3,4 @@ notebooks/.ipynb_checkpoints/C1S1_DataWrangling-checkpoint.ipynb
 .ipynb_checkpoints/
 ~$les_Forecasting_Report.docx
 data/processed/*
+*.tmp
